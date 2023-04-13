@@ -1,0 +1,30 @@
+body{
+     background-image: url("../IMAGENS/fundoLogin.jpg");
+     content: 100%;
+}
+
+div{
+     width: 420px;
+     margin: 150px auto 0px auto;
+     text-align: center;
+     padding: 20px;
+}
+
+input{
+     display: block;
+     height: 50px;
+     width: 400px;
+     margin: 10px;
+     border: 1px solid black;
+     font-size: 16pt;
+     padding: 10px 20px;
+}
+
+section{
+     width: 420px;
+     margin: 10px auto;
+     color: white;
+     padding: 10px;
+     font-size: 16pt;
+     text-align: center;
+}

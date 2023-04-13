@@ -1,0 +1,29 @@
+body{
+     background-image: url("../IMAGENS/fundoLogin.jpg");
+     content: 100%;
+     color:white;
+}
+
+.vida{
+     width: 420px;
+     text-align: center;
+     margin: 150px auto 30px auto;
+}
+
+.atributos{
+     text-align: center;
+     
+}
+
+.armadura{
+     text-align: center;
+     margin: 80px auto 30px auto;
+     
+}
+
+.itens{
+     text-align: center;
+     width: 1890px;
+     margin: 70px auto 30px auto;
+     padding: 20px;
+}
